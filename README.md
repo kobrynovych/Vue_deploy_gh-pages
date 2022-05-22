@@ -1,24 +1,35 @@
-# myapp
+# Vue_deploy_gh-pages
 
-## Project setup
-```
-npm install
-```
+https://igorkob.github.io/Vue_deploy_gh-pages
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Table of contents
+* [Instructions](#Instructions)
+* [Description](#Description)
+* [Technologies](#Technologies)
 
-### Lints and fixes files
-```
-npm run lint
+
+## Instructions
+
+First clone this repository.
+```bash
+$ git clone https://github.com/IgorKob/Vue_deploy_gh-pages.git
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Install dependencies. Make sure you already have [`nodejs`](https://nodejs.org/en/) & [`npm`](https://www.npmjs.com/) installed in your system.
+```bash
+$ npm install # or yarn
+```
+
+Run it
+```bash
+$ npm start # or yarn start
+```
+
+## Description
+This is a simple vue app using public [`tutorial`](https://reactgo.com/vue-app-deploy-to-github-pages/).
+
+
+## Technologies
+Project uses:
+* Vue
