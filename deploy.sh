@@ -13,6 +13,6 @@ git init
 git add -A
 git commit -m 'deploy'
 
-git push -f https://github.com/IgorKob/Vue_deploy_gh-pages.git master:gh-pages
+git push -f https://github.com/kobrynovych/Vue_deploy_gh-pages.git master:gh-pages
 
 cd -

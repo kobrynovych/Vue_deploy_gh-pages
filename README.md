@@ -1,6 +1,6 @@
 # Vue_deploy_gh-pages
 
-https://igorkob.github.io/Vue_deploy_gh-pages
+https://kobrynovych.github.io/Vue_deploy_gh-pages
 
 
 ## Table of contents
@@ -13,7 +13,7 @@ https://igorkob.github.io/Vue_deploy_gh-pages
 
 First clone this repository.
 ```bash
-$ git clone https://github.com/IgorKob/Vue_deploy_gh-pages.git
+$ git clone https://github.com/kobrynovych/Vue_deploy_gh-pages.git
 ```
 
 Install dependencies. Make sure you already have [`nodejs`](https://nodejs.org/en/) & [`npm`](https://www.npmjs.com/) installed in your system.
